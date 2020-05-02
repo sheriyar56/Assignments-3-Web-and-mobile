@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bgcolor{
+    background-color: blue;
+    padding: 10px
+}
+
+.pimg{
+    width: 200px;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+.tlpara{
+    text-align: left;
+    font-size: 16px;
+    color: white;
+    display: inline-block;
+    width: 100%;
+    margin-left: 10px
+}
+
+.tcpara{
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    display: inline-block;
+    width: 100%;
+}
+.shad{
+    width:80%;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  }
+.
+.cc{
+      color: green;
+  }
+.tbn{
+    color: green;
+    font-size: 8px;
+}
+
+.h66{
+      color: royalblue;
+
+  }
+
+
+.lin{
+    color:green;
+    margin-bottom: 3px
+  }
+
+  .hcolor{
+    color: royalblue;
+    text-align: center;
+}
+.psize{
+    font-size: 16px;
+     color: #666666;
+  }
+  .h44{
+  color:white;
+  font-size: 14px
+}
+
+  .mc{
+    margin-left: 100px;
+}
+.shad2{
+    border: 1px solid rgba(0, 0, 0, .5);
+    padding:10px;
+
+  }
+  .siv{
+   
+    width: 40px;
+    height: 40px;
+    
+   
+  }
+
+  #footer{
+  width:100%;
+  height: auto;
+  background-color: rgb(37, 39, 46) !important;
+ }
+ 
+ .ppp{
+    color:white;
+    font-size: 8px;
+
+  }
+.si{
+    width: 20px;
+   
+    
+}
+
+ 
+
+.trpara{
+    text-align: right;
+    font-size: 16px;
+    color: white;
+    width: 33.33%;
+}
+
+
+
+
+  #footer2{
+  width:100%;
+  height: 30px;
+  background-color: royalblue;
+ }
+.h22{
+      color: white;
+      -webkit-text-size-adjust: 10%;
+  }
